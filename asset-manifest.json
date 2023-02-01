@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Viktoriia181818/goit-react-hw-01-componentss/static/css/main.7acaea2f.css",
-    "main.js": "/Viktoriia181818/goit-react-hw-01-componentss/static/js/main.07d3183d.js",
+    "main.css": "/Viktoriia181818/goit-react-hw-01-componentss/static/css/main.c3199bde.css",
+    "main.js": "/Viktoriia181818/goit-react-hw-01-componentss/static/js/main.b8638149.js",
     "index.html": "/Viktoriia181818/goit-react-hw-01-componentss/index.html",
-    "main.7acaea2f.css.map": "/Viktoriia181818/goit-react-hw-01-componentss/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Viktoriia181818/goit-react-hw-01-componentss/static/js/main.07d3183d.js.map"
+    "main.c3199bde.css.map": "/Viktoriia181818/goit-react-hw-01-componentss/static/css/main.c3199bde.css.map",
+    "main.b8638149.js.map": "/Viktoriia181818/goit-react-hw-01-componentss/static/js/main.b8638149.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c3199bde.css",
+    "static/js/main.b8638149.js"
   ]
 }
